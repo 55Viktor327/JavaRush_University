@@ -1,0 +1,98 @@
+Sep 14, 2025 6:18:23 PM com.homework.plugin.MyStartUpActivity runActivity
+INFO: Startup activity for project IdeaLearningProject ...
+Sep 14, 2025 6:18:23 PM com.homework.plugin.MyStartUpActivity runActivity
+INFO: Startup activity for project IdeaLearningProject ...
+Sep 14, 2025 6:18:23 PM com.homework.plugin.service.IdeaInterfaceService setUpPluginInterface
+INFO: Plugin interface set.
+Sep 14, 2025 6:18:23 PM com.homework.plugin.MyStartUpActivity lambda$runActivity$1
+INFO: isAuthenticated : true
+Sep 14, 2025 6:18:23 PM com.homework.plugin.MyStartUpActivity lambda$runActivity$1
+INFO: isCurrentProjectEqualToNeeded : false
+Sep 14, 2025 6:18:23 PM com.homework.plugin.MyStartUpActivity lambda$runActivity$1
+INFO: Starting tool window initiation
+Sep 14, 2025 6:19:33 PM com.homework.plugin.MyStartUpActivity runActivity
+INFO: Startup activity for project IdeaLearningProject ...
+Sep 14, 2025 6:19:33 PM com.homework.plugin.MyStartUpActivity runActivity
+INFO: Startup activity for project IdeaLearningProject ...
+Sep 14, 2025 6:19:33 PM com.homework.plugin.service.IdeaInterfaceService setUpPluginInterface
+INFO: Plugin interface set.
+Sep 14, 2025 6:19:33 PM com.homework.plugin.MyStartUpActivity lambda$runActivity$1
+INFO: isAuthenticated : true
+Sep 14, 2025 6:19:33 PM com.homework.plugin.MyStartUpActivity lambda$runActivity$1
+INFO: isCurrentProjectEqualToNeeded : false
+Sep 14, 2025 6:19:33 PM com.homework.plugin.MyStartUpActivity lambda$runActivity$1
+INFO: Starting tool window initiation
+Sep 14, 2025 6:20:20 PM com.homework.plugin.service.AuthenticationService logout
+INFO: Synchronizers stopped.
+Sep 14, 2025 6:20:20 PM com.homework.plugin.service.AuthenticationService logout
+INFO: Logout completed.
+Sep 14, 2025 6:20:20 PM com.homework.plugin.service.IdeaInterfaceService disablePluginInterface
+INFO: Plugin interface disabled.
+Sep 14, 2025 6:20:20 PM com.homework.plugin.service.IdeaInterfaceService disablePlugin
+INFO: Plugin disabling...
+Sep 14, 2025 6:22:24 PM com.homework.plugin.MyStartUpActivity runActivity
+INFO: Startup activity for project untitled ...
+Sep 14, 2025 6:22:24 PM com.homework.plugin.MyStartUpActivity runActivity
+INFO: Startup activity for project untitled ...
+Sep 14, 2025 6:22:25 PM com.homework.plugin.service.IdeaInterfaceService setUpPluginInterface
+INFO: Plugin interface set.
+Sep 14, 2025 6:22:25 PM com.homework.plugin.MyStartUpActivity lambda$runActivity$1
+INFO: isAuthenticated : false
+Sep 14, 2025 6:22:47 PM com.homework.plugin.MyStartUpActivity runActivity
+INFO: Startup activity for project untitled ...
+Sep 14, 2025 6:22:47 PM com.homework.plugin.MyStartUpActivity runActivity
+INFO: Startup activity for project untitled ...
+Sep 14, 2025 6:22:47 PM com.homework.plugin.service.IdeaInterfaceService setUpPluginInterface
+INFO: Plugin interface set.
+Sep 14, 2025 6:22:47 PM com.homework.plugin.MyStartUpActivity lambda$runActivity$1
+INFO: isAuthenticated : false
+Sep 14, 2025 6:23:01 PM com.homework.plugin.client.PluginHttpClient loginWithSecretKey
+WARNING: Login with secret key failed.
+Response code : 400
+Response: {
+  "code" : "USER_NOT_FOUND",
+  "message" : "User not found.",
+  "developerMessage" : "JarException{errorCode=USER_NOT_FOUNDmessage=User not found.}"
+}
+Sep 14, 2025 6:23:28 PM com.homework.plugin.client.PluginHttpClient loginWithSecretKey
+WARNING: Login with secret key failed.
+Response code : 400
+Response: {
+  "code" : "USER_NOT_FOUND",
+  "message" : "User not found.",
+  "developerMessage" : "JarException{errorCode=USER_NOT_FOUNDmessage=User not found.}"
+}
+Sep 14, 2025 6:23:42 PM com.homework.plugin.client.PluginHttpClient loginWithSecretKey
+WARNING: Login with secret key failed.
+Response code : 400
+Response: {
+  "code" : "USER_NOT_FOUND",
+  "message" : "User not found.",
+  "developerMessage" : "JarException{errorCode=USER_NOT_FOUNDmessage=User not found.}"
+}
+Sep 14, 2025 6:25:20 PM com.homework.plugin.MyStartUpActivity runActivity
+INFO: Startup activity for project untitled ...
+Sep 14, 2025 6:25:20 PM com.homework.plugin.MyStartUpActivity runActivity
+INFO: Startup activity for project untitled ...
+Sep 14, 2025 6:25:21 PM com.homework.plugin.service.IdeaInterfaceService setUpPluginInterface
+INFO: Plugin interface set.
+Sep 14, 2025 6:25:21 PM com.homework.plugin.MyStartUpActivity lambda$runActivity$1
+INFO: isAuthenticated : false
+Sep 14, 2025 6:25:44 PM com.homework.plugin.client.PluginHttpClient loginWithSecretKey
+INFO: Login completed
+Sep 14, 2025 6:25:44 PM com.homework.plugin.service.AuthenticationService lambda$loginCompleted$0
+INFO: UserInfo received
+Sep 14, 2025 6:25:54 PM com.homework.plugin.MyStartUpActivity runActivity
+INFO: Startup activity for project javarush-project ...
+Sep 14, 2025 6:25:54 PM com.homework.plugin.MyStartUpActivity runActivity
+INFO: Startup activity for project javarush-project ...
+Sep 14, 2025 6:26:01 PM com.homework.plugin.toolwindow.TaskViewToolWindowFactory getTaskTreeFromServer
+INFO: Task map received from server. 906 tasks.
+Sep 14, 2025 6:26:01 PM com.homework.plugin.service.IdeaInterfaceService setUpPluginInterface
+INFO: Plugin interface set.
+Sep 14, 2025 6:26:01 PM com.homework.plugin.MyStartUpActivity lambda$runActivity$1
+INFO: isAuthenticated : true
+Sep 14, 2025 6:26:01 PM com.homework.plugin.MyStartUpActivity lambda$runActivity$1
+INFO: isCurrentProjectEqualToNeeded : true
+Sep 14, 2025 6:26:01 PM com.homework.plugin.MyStartUpActivity lambda$runActivity$1
+INFO: Starting tool window initiation
